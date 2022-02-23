@@ -2,61 +2,74 @@
 
 # Project Name
 
-> Description the project.
-
+> It takes a string parameter, and return the corresponding character in uppercase to decode the morse code.
 
 ## Built With
 
-- Major languages
-- Frameworks
-- Technologies used
-
-## Live Demo (if available)
-
-[Live Demo Link](https://livedemo.com)
-
+- Ruby
+- Rubocop
 
 ## Getting Started
-
-**This is an example of how you may give instructions on setting up your project locally.**
-**Modify this file to match your project, remove sections that don't apply. For example: delete the testing section if the currect project doesn't require testing.**
-
 
 To get a local copy up and running follow these simple example steps.
 
 ### Prerequisites
 
+Ruby should be installed in your local machine. Please check this [article](https://rubyonrails.org/) how to install/setup Ruby for iOS or Windows.
+
 ### Setup
+
+To get a local copy of the repository please run the following commands on your terminal.
+
+If you are not familiar to use terminal, please check this [article](https://www.theodinproject.com/courses/web-development-101/lessons/command-line-basics-web-development-101)
 
 ### Install
 
+Open your terminal & go to your desktop.
+
+```
+cd your_desktop
+```
+
+Run below commands.
+
+```
+git clone git@github.com:yigitm/morse-code-decoder.git
+```
+
 ### Usage
 
-### Run tests
+Go to the app folder.
 
-### Deployment
+```
+cd morse-code-decoder
+```
 
+Run the app with below command.
 
+```
+ruby bin/main.rb
+```
 
 ## Authors
 
-👤 **Author1**
+👤 **William Morales**
 
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
+- GitHub: [@williamrolando88](https://github.com/williamrolando88)
+- Twitter: [@WillyMorales93](https://twitter.com/WillyMorales93)
+- LinkedIn: [William Morales](https://www.linkedin.com/in/william-rolando-morales/)
 
-👤 **Author2**
+👤 **Yigit Mersin**
 
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
+- GitHub: [@ygtmrsn](https://github.com/ygtmrsn)
+- Twitter: [@ygtmrsn](https://twitter.com/ygtmrsn)
+- LinkedIn: [yigitmersin](linkedin.com/in/yigitmersin)
 
 ## 🤝 Contributing
 
 Contributions, issues, and feature requests are welcome!
 
-Feel free to check the [issues page](../../issues/).
+Feel free to check the [issues page](https://github.com/yigitm/morse-code-decoder/issues).
 
 ## Show your support
 
