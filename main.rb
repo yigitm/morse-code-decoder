@@ -50,6 +50,8 @@ def decode(str)
     end
     convert += ' '
   end
-  puts convert
+  "The message is: #{convert.strip!}"
 end
-decode('.-   -... --- -..-   ..-. ..- .-.. .-..   --- ..-. / .-. ..- -... .. . ...')
+
+morse_code = '.-   -... --- -..-   ..-. ..- .-.. .-..   --- ..-. / .-. ..- -... .. . ...'
+pp decode(morse_code)
