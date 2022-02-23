@@ -48,7 +48,7 @@ cd morse-code-decoder
 Run the app with below command.
 
 ```
-ruby bin/main.rb
+ruby main.rb
 ```
 
 ## Authors
