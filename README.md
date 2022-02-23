@@ -1,6 +1,6 @@
 ![](https://img.shields.io/badge/Microverse-blueviolet)
 
-# Project Name
+# Morse Code Decoder 
 
 > It takes a string parameter, and return the corresponding character in uppercase to decode the morse code.
 
@@ -48,7 +48,7 @@ cd morse-code-decoder
 Run the app with below command.
 
 ```
-ruby bin/main.rb
+ruby main.rb
 ```
 
 ## Authors
