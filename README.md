@@ -1,6 +1,6 @@
 ![](https://img.shields.io/badge/Microverse-blueviolet)
 
-# Project Name
+# Morse Code Decoder 
 
 > It takes a string parameter, and return the corresponding character in uppercase to decode the morse code.
 
